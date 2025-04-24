@@ -1,5 +1,7 @@
 # Email Classification System for Support Team
 
+***Developed by: PHILIP SIMON DEROCK P***
+
 This project implements an email classification system that categorizes support emails into predefined categories while masking personal information (PII) before processing.
 
 ## Features
